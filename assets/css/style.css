@@ -1,6 +1,11 @@
 * {
   box-sizing: border-box;
 }
+img{
+display: inline-block;
+height: auto;
+max-width: 150%;
+}
 
 body {
 	color: #777777;
@@ -131,7 +136,7 @@ footer {
 .navbar {
        background-color: #4aaaa5;
 }
-.main-container {
+.container {
 	clear: both;
 	overflow: auto;
 	margin: 0 auto;
