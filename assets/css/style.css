@@ -33,6 +33,13 @@ header	{
 	padding-top: 15px;
 }
 
+.headero {
+        border-bottom: 2px solid #cccccc;
+        background-color: #ffffff;
+        height: 60px;
+}
+
+
 h2,
 h3	{
 	color: #4aaaa5;
@@ -136,7 +143,7 @@ footer {
 .navbar {
        background-color: #4aaaa5;
 }
-.container {
+/* .container {
 	clear: both;
 	overflow: auto;
 	margin: 0 auto;
@@ -144,7 +151,7 @@ footer {
 	height: 600px;
 	width: 100%;
 	border-bottom: 5px solid #4aaaa5;
-}
+} */`
 
 .box {
 	display: inline-block;
