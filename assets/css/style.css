@@ -243,3 +243,9 @@ footer {
 	padding: 15px;
 	height: 500px;
 }
+@media screen ans (max-width: 699px) and (min-width: 520px) {
+ul li a {
+          padding-left: 30px;
+          background: blue;
+        }
+}
